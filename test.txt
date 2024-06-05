@@ -2,4 +2,6 @@ Hello Quang Dong...!
 
 Have a good future...<3~!
 
-Today is your day...!
+Today is your day...! 
+
+Today, i know some knowledge about git...!
