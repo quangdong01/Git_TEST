@@ -19,6 +19,11 @@ void showReset4()
 	std::cout << "Implement Reset 4" << std::endl;
 }
 
+void showGoodDay()
+{
+	std::cout << "Today is good day!" << std::endl;
+}
+
 void swap(int &a, int &b)
 {
 	int temp;
