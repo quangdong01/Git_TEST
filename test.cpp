@@ -9,6 +9,11 @@ void showReset2()
 	std::cout << "Implement Reset 2" << std::endl;
 }
 
+void showReset3()
+{
+	std::cout << "Implement Reset 3" << std:endl;
+}
+
 void swap(int &a, int &b)
 {
 	int temp;
