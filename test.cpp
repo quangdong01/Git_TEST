@@ -29,6 +29,11 @@ int addNumber(int a, int b)
 	return a + b;
 }
 
+void multiplyNumber(int a, int b)
+{
+	return a * b;
+}
+
 void swap(int &a, int &b)
 {
 	int temp;
