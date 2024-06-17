@@ -24,6 +24,11 @@ void showGoodDay()
 	std::cout << "Today is good day!" << std::endl;
 }
 
+int addNumber(int a, int b)
+{
+	return a + b;
+}
+
 void swap(int &a, int &b)
 {
 	int temp;
