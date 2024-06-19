@@ -11,3 +11,7 @@ Today is your day...!
 Today, i know some knowledge about git...!
 
 OKE.
+
+START, today is 16/09/2024
+Commit D1
+
